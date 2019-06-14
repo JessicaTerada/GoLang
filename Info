@@ -1,0 +1,15 @@
+ *um dos criadores do NodeJs, Ryan Dahl,  abandonou o nodeJs, pq ele acredita q o melhor
+ sistema pra criar um servidor web massivo é o Go e foi por esse motivo q ele saiu
+ *Hoje o Go roda em 400 servidores, suportando 200 milhoes de conexoes em real time,
+ ele manda agora 10 bilhoes de messages por dia
+*https://play.golang.org/
+*https://kuree.gitbooks.io/the-go-programming-language-report/content/index.html
+*https://tour.golang.org/list
+*golan is a static programming language
+*go env -> go environments
+*go fmt ./... format everything and down troyugh the directory
+*declare a variable x:=42, x=23 -> there is no need for :=, this is just for declaration
+    (inside a body) not a global varible. in this case use var x.
+
+*false for booleans, 0 for integers, 0.0 for floats, "" for strings
+    nil for pointers, functions, interfaces, slices, channels and maps
